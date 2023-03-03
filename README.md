@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fenrir</h1>
 <h3 align="center">A person from Taiwan who is interested in programming</h3>
 
-:snake: I’m currently working on Python education
+:snake: I used to be a teacher of Python and am currently a software engineer
 
  * [Python - note](https://hackmd.io/vDRsrYdvSNelvioirBuvEg?view)
 
