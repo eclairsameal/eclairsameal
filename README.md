@@ -17,7 +17,7 @@
 
  * Japanese and English(most difficult :face_with_spiral_eyes:)
 
-:dart: Goals for 2022
+:dart: Goals for 2023
   
   * Build 20+ projects
   
