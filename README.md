@@ -12,6 +12,10 @@
  * PHP - [building your own search engine](https://github.com/eclairsameal/clone_search_engine-Google-)
  
  * Python - [Applications](https://github.com/eclairsameal/Udemy_python100day) 
+ 
+ * AWS
+ 
+ * FastAPI  
 
  * [Algorithm](https://www.algoexpert.io/product)
 
@@ -31,7 +35,7 @@
 
  * Game Developer
 
- * Security
+ * Mobile Development
 
  * Algorithm
 
