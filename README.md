@@ -7,17 +7,19 @@
 
 :card_file_box: currently learning:
 
- * Flutter - [Flutter Development](https://github.com/eclairsameal/FlutterDevelopmentBootcamp)
+ * Flutter - [Flutter Development](https://github.com/eclairsameal/FlutterDevelopmentBootcamp) [FlutterML](https://github.com/eclairsameal/FlutterML)
 
- * PHP - [building your own search engine](https://github.com/eclairsameal/clone_search_engine-Google-)
- 
- * Python - [Applications](https://github.com/eclairsameal/Udemy_python100day) 
- 
- * AWS
- 
- * FastAPI  
+ * Python - [Applications](https://github.com/eclairsameal/Udemy_python100day) [django](https://github.com/eclairsameal/django-rest-framework-tutorial)
 
- * [Algorithm](https://www.algoexpert.io/product)
+ * NuxtJs - [car sales website](https://github.com/eclairsameal/NuxtJsTutorialExercises-) 
+ 
+ * AWS / Azure
+ 
+ *  FastAPI [LINE bot](https://github.com/eclairsameal/line_bot) 
+ 
+ * AI [Learn ML using boston information](https://github.com/eclairsameal/learn_ml_use_boston_data) [Gradio Project](https://github.com/eclairsameal/gradioProjects)
+ 
+ *   [Algorithm](https://www.algoexpert.io/product) - [leetcode](https://github.com/eclairsameal/leetcode)
 
  * Japanese and English(most difficult :face_with_spiral_eyes:)
 
@@ -29,7 +31,7 @@
 
 :fire: Interesting topics:
 
- * AI
+ * AI 
 
  * Optimization with Metaheuristics
 
