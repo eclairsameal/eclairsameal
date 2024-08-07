@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fenrir</h1>
+<h1 align="center">Hi 👋, I'm Aden</h1>
 <h3 align="center">A person from Taiwan who is interested in programming</h3>
 
 :snake: I used to be a teacher of Python and am currently a software engineer
@@ -7,19 +7,28 @@
 
 :card_file_box: currently learning:
 
- * Flutter - [Flutter Development](https://github.com/eclairsameal/FlutterDevelopmentBootcamp) [FlutterML](https://github.com/eclairsameal/FlutterML)
+ * Flutter
+   - [Flutter Development](https://github.com/eclairsameal/FlutterDevelopmentBootcamp)
+   - [FlutterML](https://github.com/eclairsameal/FlutterML)
 
- * Python - [Applications](https://github.com/eclairsameal/Udemy_python100day) [django](https://github.com/eclairsameal/django-rest-framework-tutorial)
+ * Python
+   - [Applications](https://github.com/eclairsameal/Udemy_python100day)
+   - [django](https://github.com/eclairsameal/django-rest-framework-tutorial)
 
- * NuxtJs - [car sales website](https://github.com/eclairsameal/NuxtJsTutorialExercises-) 
+ * FastAPI
+   - [LINE bot](https://github.com/eclairsameal/line_bot) 
+
+ * NuxtJs
+   - [Car Sales Website](https://github.com/eclairsameal/NuxtJsTutorialExercises-)
+     
+ * AI
+   - [Learn ML using boston information](https://github.com/eclairsameal/learn_ml_use_boston_data)
+   - [Gradio Project](https://github.com/eclairsameal/gradioProjects)
  
+ * [Algorithm](https://www.algoexpert.io/product)
+   - [Leetcode](https://github.com/eclairsameal/leetcode)
+
  * AWS / Azure
- 
- *  FastAPI [LINE bot](https://github.com/eclairsameal/line_bot) 
- 
- * AI [Learn ML using boston information](https://github.com/eclairsameal/learn_ml_use_boston_data) [Gradio Project](https://github.com/eclairsameal/gradioProjects)
- 
- *   [Algorithm](https://www.algoexpert.io/product) - [leetcode](https://github.com/eclairsameal/leetcode)
 
  * Japanese and English(most difficult :face_with_spiral_eyes:)
 
@@ -27,7 +36,7 @@
   
   * Build 10+ projects
   
-  * Contribute to Open Source
+  * Learning English
 
 :fire: Interesting topics:
 
