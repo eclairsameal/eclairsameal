@@ -22,7 +22,7 @@
    - [Car Sales Website](https://github.com/eclairsameal/NuxtJsTutorialExercises-)
      
  * AI
-   - [Learn ML using boston information](https://github.com/eclairsameal/learn_ml_use_boston_data)
+   - [Learn ML using boston data](https://github.com/eclairsameal/learn_ml_use_boston_data)
    - [Gradio Project](https://github.com/eclairsameal/gradioProjects)
  
  * [Algorithm](https://www.algoexpert.io/product)
