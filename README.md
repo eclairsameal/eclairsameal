@@ -32,12 +32,6 @@
 
  * Japanese and English(most difficult :face_with_spiral_eyes:)
 
-:dart: Goals for 2024
-  
-  * Build 10+ projects
-  
-  * Learning English
-
 :fire: Interesting topics:
 
  * AI 
